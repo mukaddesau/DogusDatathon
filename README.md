@@ -4,4 +4,4 @@
 
 @Authors = Mukaddes Altuntas, Zeynep Deniz Cankut
 
-The project details and code is available in https://github.com/CoderWomenAI/
+The project details and code is available in https://github.com/CoderWomenAI/DogusDatathon
